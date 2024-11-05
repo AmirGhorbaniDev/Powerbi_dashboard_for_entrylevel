@@ -50,6 +50,7 @@ stock_value: Calculate the stock value for each product.
 Once you’ve completed the transformations, close and apply your changes in Power Query.
 
 ----------------------------------------------------------------------------------------
+<img width="1091" alt="Screenshot 2024-11-05 at 14 59 11" src="https://github.com/user-attachments/assets/de664475-b649-4880-9f95-9dc1ea91f07b">
 
 
 **Data Visualization**
